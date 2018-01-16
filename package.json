@@ -12,13 +12,17 @@
   },
   "keywords": [
     "nodejs",
-    "twitter",
-    "bot"
+    "twitter-bot"
   ],
   "author": "Lex Martinez <lex0316@gmail.com>",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/lexmartinez/twitter-repos-bot/issues"
   },
-  "homepage": "https://github.com/lexmartinez/twitter-repos-bot#readme"
+  "homepage": "https://github.com/lexmartinez/twitter-repos-bot#readme",
+  "dependencies": {
+    "dotenv": "^4.0.0",
+    "ora": "^1.3.0",
+    "twit": "^2.2.9"
+  }
 }

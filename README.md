@@ -1,6 +1,6 @@
 # twitter-repos-bot
 
-:bird: Twitter bot to fetch tweets with GitHub repositories
+:bird: Twitter bot to fetch tweets with GitHub repositories written with Node.js
 
 ## Build Setup
 
