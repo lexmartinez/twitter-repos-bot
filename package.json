@@ -1,0 +1,24 @@
+{
+  "name": "twitter-repos-bot",
+  "version": "0.0.1",
+  "description": "Twitter bot to fetch tweets with GitHub repositories",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lexmartinez/twitter-repos-bot.git"
+  },
+  "keywords": [
+    "nodejs",
+    "twitter",
+    "bot"
+  ],
+  "author": "Lex Martinez <lex0316@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lexmartinez/twitter-repos-bot/issues"
+  },
+  "homepage": "https://github.com/lexmartinez/twitter-repos-bot#readme"
+}
